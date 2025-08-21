@@ -1,1 +1,1 @@
-# hbtwriteups
+Notes for HTB machines :)
